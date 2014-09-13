@@ -24,6 +24,8 @@ git init
 
 git status
 	Tells us the status of our working directory
+	Compares the difference between working directory and staging area assuming the file hasnt been added yet.
+	After adding it, it shows the difference between the staging and the repo.
 
 .gitignore
 	Tells git that it should completely ignore a certain file
@@ -39,3 +41,4 @@ git log
 
 git log --oneline
 	shows us the log in one line form
+
