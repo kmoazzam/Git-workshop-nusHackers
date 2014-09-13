@@ -62,3 +62,8 @@ git checkout <7 digit ID>
 git checkout <branch/commit/etc>
 	goes back in time to an older commit. The data is shown in the text file.
 	To go back to the latest commit, git checkout master
+
+HEAD is a label for the commit that we are currently at
+
+git revert <commit ID>
+	
