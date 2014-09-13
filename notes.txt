@@ -55,5 +55,6 @@ git add -p
 
 
 
-git patch
+git reset --hard
+	Deletes the changes between the staging and the a commit. Use diff before executing this command. No way to retrieve any of the things deleted this way. it also directly modifies the text file...
 
