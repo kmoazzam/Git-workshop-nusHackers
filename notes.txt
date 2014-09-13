@@ -1,0 +1,23 @@
+LINUX commands:
+
+pwd 
+	lists present working directory
+
+ls
+	directory listing
+
+cd
+	change directory
+
+mkdir [directory_name]
+	make new directory with name directory_name
+
+touch [file.extention]
+	creates a file
+
+text expander
+
+GIT Commands:
+
+git init
+	Used to create a new git repository
