@@ -21,3 +21,15 @@ GIT Commands:
 
 git init
 	Used to create a new git repository
+
+git status
+	Tells us the status of our working directory
+
+.gitignore
+	Tells git that it should completely ignore a certain file
+
+git add [file/folder]
+	Tells git to start tracking specific files or folders
+
+git commit
+	when we commit, the default file editior opens up and asks for a log message. Saving and quitting would commit the changes.
