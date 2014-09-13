@@ -81,3 +81,5 @@ Branches - parallel universess where we can work on different things in isolatio
 git branch
 	gives a list of all the branches in the repository
 
+get merge <branchName>
+	merges the branch specified with the master
