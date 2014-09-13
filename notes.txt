@@ -32,4 +32,7 @@ git add [file/folder]
 	Tells git to start tracking specific files or folders
 
 git commit
-	when we commit, the default file editior opens up and asks for a log message. Saving and quitting would commit the changes.
+	when we commit, the default file editior opens up and asks for a log message. Saving and quitting would commit the changes that we made.
+
+git log
+	Shows us all the commits that we made
