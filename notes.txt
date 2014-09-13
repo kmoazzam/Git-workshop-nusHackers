@@ -87,3 +87,8 @@ git merge <branchName>
 git remote add origin [URL]
 	Adds a git remote of the name origin
 	
+git pull [origin] [master]
+	Pulls from origin ( name of the server )  and into master ( name of the local repository).
+
+git push [remote ] [branch]
+	pushes commuts on [branch] to [remote] sever
