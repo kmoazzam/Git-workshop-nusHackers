@@ -66,4 +66,5 @@ git checkout <branch/commit/etc>
 HEAD is a label for the commit that we are currently at
 
 git revert <commit ID>
-	
+	Reverts the commit by making a reverse commit, reverses all things done in the most recent commit. 
+	HEAD may be used as it is the pointer for the most recent commit.
