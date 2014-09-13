@@ -58,3 +58,7 @@ git add -p
 git reset --hard
 	Deletes the changes between the staging and the a commit. Use diff before executing this command. No way to retrieve any of the things deleted this way. it also directly modifies the text file...
 
+git checkout <7 digit ID>
+	goes back in time to an older commit. The data is shown in the text file.
+	To go back to the latest commit, git checkout master
+	
