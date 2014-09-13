@@ -68,3 +68,16 @@ HEAD is a label for the commit that we are currently at
 git revert <commit ID>
 	Reverts the commit by making a reverse commit, reverses all things done in the most recent commit. 
 	HEAD may be used as it is the pointer for the most recent commit.
+
+Branching in GIT
+git branch <newBranchName>
+	creates a new branch
+
+git checkout <branch>
+	helps us move into the other branch
+
+Branches - parallel universess where we can work on different things in isolation
+
+git branch
+	gives a list of all the branches in the repository
+
