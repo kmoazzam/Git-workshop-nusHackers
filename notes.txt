@@ -48,3 +48,12 @@ git diff <old> <new>
 git diff
 	Shows us what has changed between our working directory and our staging area
 
+git add -p 
+	 Lets us selectively stage changes
+	 (p here stands for patch)
+	 we would go through every hunk(something like chunk) but by bit and asks us if we wish to commit it
+
+
+
+git patch
+
