@@ -36,3 +36,6 @@ git commit
 
 git log
 	Shows us all the commits that we made
+
+git log --oneline
+	shows us the log in one line form
