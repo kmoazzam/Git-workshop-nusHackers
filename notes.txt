@@ -42,3 +42,9 @@ git log
 git log --oneline
 	shows us the log in one line form
 
+git diff <old> <new>
+	Shows us what has changed between any two commits
+
+git diff
+	Shows us what has changed between our working directory and our staging area
+
